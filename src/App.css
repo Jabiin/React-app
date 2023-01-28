@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App .container {
+  display: flex;
+}
+.App  li{
+  list-style-type: none;
+  display: inline-block;
+  color: #61dafb;
+}
+
+.App .logo {
+  color: #61dafb;
+  padding: 3px 0;
+  
+}
+
+
+
+
+
+
