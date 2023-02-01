@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
     <div className="container">
-    <div className='logo'> Logo</div>
+    <div className='logo'> jsx test </div>
       <ul>
         
       </ul>
